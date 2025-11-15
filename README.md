@@ -1,0 +1,1 @@
+# Desafio-de-Automa-o-Digital-Gest-o-de-Pe-as-Qualidade-e-Armazenamento-
