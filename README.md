@@ -53,6 +53,15 @@ Gera um relatório consolidado contendo:
 - Python 3.x instalado no computador
 - Terminal ou Prompt de Comando
 
+- Passo a Passo
+
+Execute o programa
+
+bash   python sistema_pecas_v2.py
+
+Interaja com o menu
+O programa exibirá um menu interativo onde você pode escolher as opções digitando o número correspondente.
+
 ## Exemplos de Uso
 
 ### Exemplo 1: Cadastrando uma peça aprovada
